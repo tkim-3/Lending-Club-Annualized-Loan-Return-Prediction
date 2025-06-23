@@ -3,5 +3,4 @@ This project aims to predict the annualized return of loans on Lending Club usin
 
 Data Source: https://www.kaggle.com/datasets/jeandedieunyandwi/lending-club-dataset
 
-Final Presentation:[
-](https://docs.google.com/presentation/d/1G7JdAOiNYsb9BXbTvG5y8cLkZRcEzdns-_h3y86Yam4/edit?slide=id.g336de720c7c_0_0#slide=id.g336de720c7c_0_0)
+Final Presentation: https://docs.google.com/presentation/d/1G7JdAOiNYsb9BXbTvG5y8cLkZRcEzdns-_h3y86Yam4/edit?slide=id.p#slide=id.p
